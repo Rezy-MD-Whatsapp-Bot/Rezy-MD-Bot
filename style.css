@@ -1,0 +1,35 @@
+table,th,td{
+    color: rgb(241, 72, 11);    
+    background-color: white;
+    border: 3px solid rgb(163, 44, 171);
+    }
+body{
+    background-image: url("file:///C:/Users/Dilaksha%20Madushan/Downloads/evil-anime-boy-glowing-black-aura_915071-75175.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    <!--mekata color ekak hari photoekak hari background ekata dhanna puluwan-->
+}
+button{
+    color: blue;
+    background-color: brown;
+}
+.Resika{
+    color: yellow;
+    text-align: center;
+}
+h2{
+    color: yellow;
+    text-align: center;
+}
+.main{
+    color: brown;
+}
+ol{
+    color: yellow;
+}
+ul{
+    color: brown;
+}
+img{
+    width: 200px;
+}
